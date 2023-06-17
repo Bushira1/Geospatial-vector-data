@@ -1,2 +1,2 @@
 # Geospatial-vector-data Analysis in Python
-this python exercise contains introduction to geospatial vector data analysis using python.The Paris data is used for the exercise
+This Python exercise demonstrates a project that introduces geospatial vector data analysis with Python. The exercise utilizes Paris data for practical application.
